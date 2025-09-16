@@ -1,7 +1,7 @@
 <!-- 头像与标题 -->
 <h1 align="center">Hi, I'm William (Mengqi) Wang</h1>
 <p align="center">
-  Backend-leaning Full-Stack Engineer · Python · React/Next.js · API Design · CI/CD
+  Full-Stack Engineer · Python · React/Next.js · API Design · CI/CD
 </p>
 
 <p align="center">
@@ -39,7 +39,4 @@
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=william-aidev&show_icons=true&hide_title=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-aidev&layout=compact&langs_count=8&hide_title=true" />
-</p>
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=william-aidev&hide_border=true" />
 </p>
