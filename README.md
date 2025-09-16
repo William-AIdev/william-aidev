@@ -12,7 +12,7 @@
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-API-000?logo=flask)
@@ -35,7 +35,7 @@
 
 ---
 
-## 📈 Stats
+## Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=william-aidev&show_icons=true&hide_title=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-aidev&layout=compact&langs_count=8&hide_title=true" />
