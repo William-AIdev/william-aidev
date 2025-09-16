@@ -37,5 +37,5 @@
 
 ## Stats
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=William%20Wang&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=William%20Wang&exclude_days=Sun%2CSat)(https://git.io/streak-stats)
 </p>
