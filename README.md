@@ -17,11 +17,13 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-API-000?logo=flask)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
-![FastAPI](https://img.shields.io/badge/FastAPI-ready-009688?logo=fastapi)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-025E8C?logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-DBMS-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-13-000?logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?logo=tailwindcss)
 
