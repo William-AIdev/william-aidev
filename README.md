@@ -39,34 +39,6 @@
 
 ---
 
-name: Metrics
-on:
-  schedule:
-    - cron: "0 */24 * * *"   # 每天更新一次
-  workflow_dispatch:
+### 📊 Metrics
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # 你的 GitHub 用户名
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: william-aidev
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: Australia/Sydney
-          
-          # 插件
-          plugin_stars: yes
-          plugin_stars_limit: 5
-          
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isometric: yes
-
+![Metrics](https://github.com/william-aidev/william-aidev/blob/main/github-metrics.svg)
