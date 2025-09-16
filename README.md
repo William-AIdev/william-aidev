@@ -37,6 +37,5 @@
 
 ## Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=william-aidev&show_icons=true&hide_title=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-aidev&layout=compact&langs_count=8&hide_title=true" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=William%20Wang&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </p>
