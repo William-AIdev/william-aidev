@@ -39,6 +39,5 @@
 
 ---
 
-### 📊 Metrics
-
-![Metrics](https://github.com/william-aidev/william-aidev/blob/main/github-metrics.svg)
+## Metrics
+![Metrics](https://github.com/William-Aldev/William-Aldev/blob/main/github-metrics.svg)
