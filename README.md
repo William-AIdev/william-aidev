@@ -36,4 +36,4 @@
 ---
 
 ## Metrics
-![Metrics](https://github.com/William-Aldev/William-Aldev/blob/main/github-metrics.svg)
+![Metrics](https://github.com/William-Aldev/William-Aldev/github-metrics.svg)
