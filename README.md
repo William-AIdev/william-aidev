@@ -36,6 +36,4 @@
 ---
 
 ## Stats
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=William%20Wang&exclude_days=Sun%2CSat)
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=William%20Wang&exclude_days=Sun%2CSat)
