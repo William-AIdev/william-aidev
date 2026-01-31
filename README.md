@@ -1,7 +1,7 @@
 <!-- 头像与标题 -->
 <h1 align="center">Hi, I'm William (Mengqi) Wang</h1>
 <p align="center">
-  Full-Stack Engineer · Python · React/Next.js · API Design · CI/CD
+  Full-Stack AI Engineer · Python · React/Next.js · API Design · Automation
 </p>
 
 <p align="center">
@@ -13,13 +13,19 @@
 ---
 
 ## Tech stack
+**AI**
+![LangChain](https://img.shields.io/badge/LangChain-RAG-0FA958)
+![LangGraph](https://img.shields.io/badge/LangGraph-Framework-FF6F61?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-DC244C?logo=qdrant&style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Enabled-0FA958?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM-412991?logo=openai)
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?logo=n8n&style=flat-square)
+
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python)
-![Flask](https://img.shields.io/badge/Flask-API-000?logo=flask)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red)
-![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-025E8C?logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-DBMS-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=000)
